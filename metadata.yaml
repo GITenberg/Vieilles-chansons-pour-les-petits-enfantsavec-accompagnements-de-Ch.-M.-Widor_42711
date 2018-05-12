@@ -27,6 +27,8 @@ covers:
 - cover_type: archival
   image_path: 42711-h/images/x-cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42711#Vieilles-chansons-pour-les-petits-enfantsavec-accompagnements-de-Ch.-M.-Widor
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR Chansons
